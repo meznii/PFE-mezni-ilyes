@@ -13,7 +13,7 @@ Optimiser les budgets
 
 Installation facile à mettre en place et économique.
 
-Domaines d’application
+## Domaines d’application
 
 – Smart Housing
 
@@ -23,7 +23,7 @@ Domaines d’application
 
 – Opérateurs
 
-Les fonctionnalités
+## Les fonctionnalités
 
 -Mesure globale et par phase de la consommation en KWH.
 
@@ -34,7 +34,8 @@ Les fonctionnalités
 -Production de recommandations et de rapports.
 
 -Système d’aide à la décision.
-Dashboard
+## Liste des images 
+
 ![Capture](https://user-images.githubusercontent.com/56446751/136007357-79c15227-0017-4664-9e6d-a81921a7bf25.PNG)
 
 ![244343360_448177119943465_3714256725154634664_n](https://user-images.githubusercontent.com/56446751/136007665-62e26d95-01d4-4c18-8bc5-9f99774aa352.png)
